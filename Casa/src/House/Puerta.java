@@ -1,5 +1,7 @@
 
-package Modelo;
+
+package House;
+
 public class Puerta {
     private Marca marca;
     private double ancho;

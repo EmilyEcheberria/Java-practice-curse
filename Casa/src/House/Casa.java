@@ -61,7 +61,7 @@ public class Casa implements AbstraccionCasa {
 
     @Override
     public String toString() {
-        return "Casa{" + "nombre=" + nombre + ", mCuadrados=" + mCuadrados + ", habitacion=" + habitacion + ", jardin=" + jarden + ", direccion=" + direccion + '}';
+        return "Casa{" + "nombre=" + nombre + ", mCuadrados=" + mCuadrados + ", habitacion=" + habitacion + ", jardin=" + jardin + ", direccion=" + direccion + '}';
     }
 
     @Override
